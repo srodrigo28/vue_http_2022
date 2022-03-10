@@ -1,4 +1,5 @@
 # vue-http
+* link revisão: https://www.udemy.com/course/vue-js-guia-completo/learn/lecture/12474120#overview
 * link da base: https://www.udemy.com/course/vue-js-guia-completo/learn/lecture/13310348#overview
 * veu create app
 ## Project setup
